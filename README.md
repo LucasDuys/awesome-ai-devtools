@@ -118,6 +118,7 @@ Autonomous CLI agents that generate code, execute shell commands, and manage mul
 - [Arctic](https://github.com/arctic-cli/interface) — A terminal-first TUI that unifies multiple AI coding plans and APIs with built-in usage and quota visibility.
 - [Mini SWE-Agent](https://mini-swe-agent.com/latest/) — A minimal, hackable software engineering agent built for learning and experimentation. Lightweight implementation demonstrating core SWE-agent concepts with a focus on simplicity and extensibility.
 - [Micro Agent](https://www.builder.io/blog/micro-agent) — An AI agent that writes and fixes code for you.
+- [Forge](https://github.com/LucasDuys/forge) — Autonomous spec-driven development loop for Claude Code. Turns ideas into shipped code via brainstorm, plan, and execute commands with self-correcting backpropagation and TDD.
 
 ### CLI Utilities
 
